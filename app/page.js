@@ -19,6 +19,9 @@ const AIProject = () => {
       <h1 className="text-3xl font-bold text-black m-5 bg-gray-500 bg-opacity-30 text-center p-4 rounded-3xl">
         AI Project
       </h1>
+      <h6 className="text-xl font-bold text-white italic bg-gray-500 bg-opacity-30 text-center p-4 rounded-3xl">
+        Cric Guru - A Cricket Companion
+      </h6>
       <div
         className="flex justify-center items-center relative text-center p-4 rounded-3xl"
         style={{
