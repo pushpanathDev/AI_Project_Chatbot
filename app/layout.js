@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Cric Guru",
+  title: "Cric Thalaivaa",
   description: "ChatBot",
 };
 
